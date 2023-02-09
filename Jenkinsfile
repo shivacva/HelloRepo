@@ -8,6 +8,7 @@ pipeline{
        }
     stage("build"){
       steps{
+      tool name: '3.9.0', type: 'maven'
      sh "mvn clean install"
         }
        }
