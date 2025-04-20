@@ -7,11 +7,6 @@
   <version>1.0-SNAPSHOT</version>
   <name>New-project Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  <dependencies>
-    <dependency>
-      
-    </dependency>
-  </dependencies>
   <build>
     <finalName>New-project</finalName>
   </build>
